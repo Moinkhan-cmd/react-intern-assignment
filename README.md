@@ -2,6 +2,10 @@
 
 A simple React application for managing user accounts. Ideally created for an intern-level assignment.
 
+## Screenshot
+
+![App Screenshot](src/assets/screenshot.png)
+
 ## Features
 
 - **User Registration**: Create a new account with name, email, and password.
